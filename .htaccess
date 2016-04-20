@@ -1,0 +1,9 @@
+# this makes RePEc and its subdirectories browsable
+# so that the RePEc robots work properly
+# see: http://ideas.repec.org/t/httpserver.html
+Options +Indexes
+
+# note also that we include a blank index.html
+# in the RePEc directory, just to obscure this
+# directory's contents (but not the contents
+# of its subdirectories, namely 'epo').

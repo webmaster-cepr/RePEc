@@ -1,0 +1,90 @@
+This is the README for the CEPR RePEc archive.
+
+/RePEc/epo 
+is the archive directory.
+
+/RePEc/.htaccess 
+ensures that epo is browsable.
+
+/RePEc/index.html
+is a blank index file which makes the RePEc directory
+appear to be empty.
+
+/RePEc/epo/booksx
+is the CEPR books series directory.
+
+/RePEc/epo/papers
+is the CEPR papers series directory.
+
+/RePEc/epo/epoarch.rdf
+is the CEPR archive template.
+
+/RePEc/epo/eposeri.rdf
+is the CEPR series template.
+
+
+HOW ALL OF THIS WORKS
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:epo:papers:2006-06
+Title: Employment Regulation and French Unemployment: Were the French Students
+ Right After All?
+Author-Name: John Schmitt
+Author-Person: psc226
+Author-Name: David Howell
+Author-Person:
+Creation-Date: 2006-04
+Language: en
+Abstract: The widely held view that French economic performance is poor and
+ that French employment performance is catastrophic, flies in the face of
+ the evidence, according to this report.
+Classification-JEL:
+File-URL: http://www.cepr.net/documents/04_06_Howell_French_Students_2.pdf
+File-Format: application/pdf
+Publication-Status:
+Article-Handle:
+
+
+* Encoding *
+
+* Lags *
+It takes anywhere from one day to a full week for the IDEAS, REPEC, ECONPAPERS, and other databases to retrieve and populate new information. If things don't seem to be working as intended, check the logs, where you can usually find offending entries or other errors, as well as some information about when the last update occurred: http://econpapers.repec.org/check/epo/.
+
+For the sake of convenience, here is a list of CEPR authors
+and their person-names:
+
+Author-Name: Dean Baker
+Author-Person: pba441
+
+Author-Name: Heather Boushey
+Author-Person: pbo207
+
+Author-Name: Belén Cadena
+Author-Person: pca357
+
+Author-Name: David Rosnick
+Author-Person: pro314
+
+Author-Name: Luis Sandoval
+Author-Person: psa451
+
+Author-Name: John Schmitt
+Author-Person: psc226
+
+Author-Name: Mark Weisbrot
+Author-Person: pwe148
+
+Author-Name: Ben Zipperer
+Author-Person: pzi41
+
+
+Here is a list of other CEPR co-authors:
+
+Author-Name: Andrew Glyn
+Author-Person: pgl12
+
+Author-Name: Danilo Pelletiere
+Author-Person: ppe220
+
+Author-Name: Jonathan Wadsworth
+Author-Person: pwa118
