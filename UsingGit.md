@@ -31,6 +31,8 @@ This [site](https://confluence.atlassian.com/bitbucket/set-up-git-744723531.html
 
 ## Using Git
 
+### Setting up the Repository Locally
+
 The first time you use git, you'll need to clone the RePEc repository onto your computer.
 
 ```git clone https://github.com/webmaster-cepr/RePEc.git```
@@ -39,5 +41,37 @@ The version of RePEc that is crawled online is hosted on a GitHub page. That mea
 
 ```git checkout -b gh-pages origin/gh-pages```
 
+You can always see which branch you are in by typing `git branch`.
 
+### Fetching Recent Updates
+
+Once the repo is set up locally, you'll want to fetch any recent changes. You should do this every single time you make any changes.
+
+To fetch the most up-to-date changes to any of the branches, use the command:
+
+```git fetch --all``
+
+### Updating the Repo
+
+Once you have fetched all recent changes, you can make changes to the files and push them back to GitHub.
+
+Say you make a change to a file called cats.txt. If you type `git status`, it will tell you that cats.txt has been modified. In order to push the updated cats.txt, you'll first need to `add` the file.
+
+```git add cats.txt```
+
+An easier command to remember, however, is:
+
+```git add -u```
+
+That will add all files that have been updated.
+
+Then commit the changes to Git (not to be confused with GitHub) using the `commit` command. You can add a message that lets others know what you did.
+
+```git commit -m "Updated cats.txt"```
+
+Now you push all changes to GitHub.
+
+```git push origin gh-pages```
+
+You'll also need to fetch the most-recent version of the repository
 
