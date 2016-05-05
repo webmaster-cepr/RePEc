@@ -49,7 +49,7 @@ Once the repo is set up locally, you'll want to fetch any recent changes. You sh
 
 To fetch the most up-to-date changes to any of the branches, use the command:
 
-```git fetch --all``
+```git fetch --all```
 
 ### Updating the Repo
 
@@ -72,6 +72,3 @@ Then commit the changes to Git (not to be confused with GitHub) using the `commi
 Now you push all changes to GitHub.
 
 ```git push origin gh-pages```
-
-You'll also need to fetch the most-recent version of the repository
-
