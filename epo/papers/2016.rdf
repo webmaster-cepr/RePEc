@@ -151,7 +151,7 @@ File-Format: application/pdf
 
 Template-Type: ReDIF-Paper 1.0
 Handle: RePEc:epo:papers:2016-12
-Title: Working Paper, Rents and Inefficiency in the Patent and Copyright System: Is There a Better Route?
+Title: Working Paper: Rents and Inefficiency in the Patent and Copyright System: Is There a Better Route?
 Author-Name: Dean Baker
 Author-Person: pba441
 Creation-Date: 2016-08
@@ -159,4 +159,18 @@ Abstract: This paper analyzes the evidence for rents due to the patent and copyr
 Length: 60 pages
 Classification-JEL: I, I1, I18, I14, O, O31, O33, O34, K, K11
 File-URL: http://cepr.net/images/stories/reports/rents-inefficiency-patents-2016-08.pdf
+File-Format: application/pdf
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:epo:papers:2016-13
+Title: Working Paper: The Compensation of Highly Paid Professionals: How Much Is Rent?
+Author-Name: Dean Baker
+Author-Person: pba441
+Creation-Date: 2016-08
+Abstract: Highly educated professionals in the United States, such as doctors and lawyers, earn salaries that are considerably higher than their counterparts in other wealthy countries. In many cases the ratios of pay in the United States to that of other wealthy countries exceeds two to one. These gaps are not explained by differences in per capita income, which are not nearly as large, or pay scales more generally. In many occupations U.S. workers get lower pay than their counterparts in other wealthy countries.
+
+This paper examines the evidence that the pay gap is due to protectionist measures that restrict competition. The most important of these protectionist measures are licensing practices that both unnecessarily restrict domestic competition and also prevent foreign-trained professionals from practicing their profession in the United States. There is a considerable amount of money at stake in excess pay for U.S. professionals. Higher pay for doctors alone costs close to $100 billion annually (more than 0.5 percent of GDP). Adding in the excess pay for other professionals could double this amount.
+Length: 51 pages
+Classification-JEL: J, J4
+File-URL: http://cepr.net/images/stories/reports/highly-paid-professionals-2016-08.pdf
 File-Format: application/pdf
