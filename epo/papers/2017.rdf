@@ -15,7 +15,7 @@ Handle: RePEc:epo:papers:2016-02
 Title: Who Pays if We Raise the Social Security Payroll Tax Cap?
 Author-Name: Cherrie Bucknor
 Author-Person:
-Author-Name: alan Barber
+Author-Name: Alan Barber
 Author-Person:
 Creation-Date: 2016-02
 Abstract: Most Americans know that their earnings are subject to the Social Security payroll tax. Not as many are aware that the amount of earnings subject to the tax, while subject to change, is capped at the same level for everyone, regardless of total earnings. This year, the maximum wage earnings subject to the payroll tax is $127,200. The cap on the Social Security payroll tax means that those with the highest earnings pay a lower rate.
@@ -24,4 +24,16 @@ Using Census Bureau data from the latest American Community Survey (ACS), this i
 Length: 5 pages
 Classification-JEL: H, H5, H55, H2, H3
 File-URL: http://cepr.net/images/stories/reports/ss-cap-update-2017-02.pdf
+File-Format: application/pdf
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:epo:papers:2016-03
+Title: Working Paper: Economic Policy in the Trump Era
+Author-Name: Dean Baker
+Author-Person: pba441
+Creation-Date: 2016-02
+Abstract: The debate on economic policy in the United States and elsewhere is typically framed as one between conservatives who like the market and progressives who favor a large role for government. This is both wrong and wrong in a way that hugely favors conservatives. Progressive policy should focus on creating alternative structures that reverse the upward redistribution of the last four decades. While the likelihood for much progress in this direction at the national level during the Trump administration seems minimal, there will be opportunities in states where progressives still have substantial political power.
+Length: 16 pages
+Classification-JEL: E, E6, H, H7
+File-URL: http://cepr.net/images/stories/reports/economic-policy-trump-era-2017-02.pdf
 File-Format: application/pdf
