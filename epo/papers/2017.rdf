@@ -215,8 +215,6 @@ Handle: RePEc:epo:papers:2017-14
 Title: Innovation, Intellectual Property, and Development: A Better Set of Approaches for the 21st Century 
 Author-Name: Dean Baker
 Author-Person: pba441
-Author-Name: Kevin Cashman
-Author-Person: 
 Author-Name: Arjun Jayadev
 Author-Person:
 Author-Name: Joseph Stiglitz
@@ -226,4 +224,22 @@ Abstract: This paper aims to provide an intellectual basis to think about the re
 Length: 90 pages
 Classification-JEL: I, I1, I18, I14, O, O31, O33, O34, K, K11
 File-URL: http://cepr.net/images/stories/reports/baker-jayadev-stiglitz-innovation-ip-development-2017-07.pdf
+File-Format: application/pdf
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:epo:papers:2017-15
+Title: Organizational Restructuring in US Healthcare Systems: Implications for Jobs, Wages, and Inequality 
+Author-Name: Eileen Appelbaum
+Author-Person: 
+Author-Name: Rosemary Batt
+Author-Person:
+Creation-Date: 2017-09
+Abstract: The healthcare sector is one of the most important sources of jobs in the economy. Healthcare spending reached $3.2 trillion in 2015 or 17.8 percent of GDP and accounted for 12.8 percent of private sector jobs. It was the only industry that consistently added jobs during the Great Recession. In 2016, the private sector healthcare industry, which is the focus of this report, added 381,000 private sector jobs, the most of any industry. It is a particularly important source of employment for workers without a college degree, most of whom, as we document in this report, earn low wages. 
+
+This report describes how organizational restructuring is affecting the job opportunities and wages of healthcare workers. We focus on changing employment and wages in hospitals and outpatient clinics, where the most profound restructuring is occurring. Over the last decade or more, hospitals have restructured the organization of care delivery in response to major technological advances, regulatory changes, and financial pressures. This restructuring has occurred at two levels: the consolidation of hospitals and providers into larger healthcare systems on the one hand; and the decentralization of services and the movement of jobs to outpatient facilities on the other. Outpatient care facilities include a wide range of services — from primary care centers to specialized units such as urgent care centers, ambulatory surgery centers, free-standing emergency rooms, dialysis facilities, trauma and burn units, and other specialty clinics. These organizational changes began before the 2010 passage of the Patient Protection and Affordable Care Act (ACA), but have accelerated considerably since then, and are likely to continue even as the ACA is revamped in the future. 
+
+This shift to outpatient care centers offers benefits to patients — convenience as well as opportunities for preventative care — and most healthcare providers and unions have supported the move to more community-based care. But in this report, we show that workers are bearing the costs of this organizational restructuring.
+Length: 70 pages
+Classification-JEL: I, I1, I11, J, J2, J3, L, L1, L3 
+File-URL: http://cepr.net/images/stories/reports/organizational-restructuring-healthcare-2017-09.pdf
 File-Format: application/pdf
