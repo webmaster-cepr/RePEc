@@ -47,7 +47,7 @@ File-URL: https://www.epi.org/files/pdf/143893.pdf
 File-Format: application/pdf
 
 Template-Type: ReDIF-Paper 1.0
-Handle: RePEc:epo:papers:2018-03
+Handle: RePEc:epo:papers:2018-04
 Title: The Availability of Data from Clinical Trials: The Case of Crohn's Disease
 Author-Name: Ravi Katari
 Author-Person: 
@@ -62,4 +62,38 @@ Our study seeks to briefly characterize the data made available through Clinical
 Length: 15 pages
 Classification-JEL: I, I1, I18
 File-URL: http://cepr.net/images/stories/reports/clinical-trials-2018-06.pdf
+File-Format: application/pdf
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:epo:papers:2018-05
+Title: Measuring the Inflation Rate: Is Housing Different?
+Author-Name: Dean Baker
+Author-Person: pba441
+Creation-Date: 2018-06
+Abstract: This paper argues that the Federal Reserve should also consider removing the shelter component from the core inflation indexes it uses in assessing the state of the economy. The reason is that the shelter component is also not moved by the same dynamics as most of the items in the indices. This has not generally mattered in prior years, since inflation in the shelter components has not differed much from the inflation rate in the rest of the core. However, this is no longer true. Over the last four years, a core inflation rate that excludes shelter would be more than 0.5 percentage points lower than the standard core in the CPI and more than 0.3 percentage points lower in the PCE.
+Length: 15 pages
+Classification-JEL: E, E3, E31, R, R3
+File-URL: http://cepr.net/images/stories/reports/inflation-housing-2018-06.pdf
+File-Format: application/pdf
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:epo:papers:2018-06
+Title: The Pact for Mexico After Five Years: How Has It Fared?
+Author-Name: Mark Weisbrot
+Author-Person: pwe148
+Author-Name: Lara Merling
+Author-Person: 
+Author-Name: Rebecca Watts
+Author-Person:
+Author-Name: Author-Name: 
+Author-Person: 
+Creation-Date: 2018-06
+Abstract: The Pact for Mexico pledged to institute policies that would usher in a new era of growth and prosperity for Mexico, through the implementation of a series of structural reforms. The timeline for implementation of the proposed reforms extended to the second semester of 2018.
+
+This paper examines whether there has been progress toward the Pact’s goals since it was signed; and whether any measures taken since then — including current economic policies — are likely to help Mexico break out of its long economic slump and forge a different path toward economic and social progress.
+
+Five years into the Pact for Mexico, it is clear from the available data that the Pact’s promises to launch a new era of economic and social progress have not begun to materialize. The authors conclude that the country’s persistent sluggish growth, poverty, and inequality are rooted in a set of important economic policy choices that have been made consistently for a long time.
+Length: 23 pages
+Classification-JEL: F, F4, F6, O, O1, O3
+File-URL: http://cepr.net/images/stories/reports/mexico-2018-06.pdf
 File-Format: application/pdf
