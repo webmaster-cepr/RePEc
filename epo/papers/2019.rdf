@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Template-Type: ReDIF-Paper 1.0
+=======
+Template-Type: ReDIF-Paper 1.0
+>>>>>>> bac94226edeb709db83e7cd102f6a4ba2ce860d6
 Handle: RePEc:epo:papers:2019-01
 Title: Passing Paid Leave Laws Is Just the Beginning: Lessons from the Field on Raising Awareness
 Author-Name: Eileen Appelbaum
@@ -58,6 +62,7 @@ The enormous distortions from patent monopolies mean that there are large potent
 Length: 12 pages
 Classification-JEL: I, I1, I18
 File-URL: http://cepr.net/images//stories/reports/pharma-industry-2019-03.pdf
+<<<<<<< HEAD
 File-Format: application/pdf
 
 Template-Type: ReDIF-Paper 1.0
@@ -76,3 +81,6 @@ Length: 27 pages
 Classification-JEL: F, F0, F02, F5, F51, F52, F53, F54, H, H6, H63, I, I0, K, K4, K42, 
 File-URL: http://cepr.net/images/stories/reports/venezuela-sanctions-2019-04.pdf
 File-Format: application/pdf
+=======
+File-Format: application/pdf
+>>>>>>> bac94226edeb709db83e7cd102f6a4ba2ce860d6

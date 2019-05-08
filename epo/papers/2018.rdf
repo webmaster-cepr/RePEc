@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Template-Type: ReDIF-Paper 1.0
+=======
+Template-Type: ReDIF-Paper 1.0
+>>>>>>> bac94226edeb709db83e7cd102f6a4ba2ce860d6
 Handle: RePEc:epo:papers:2018-01
 Title: Working Paper: State Payroll Taxes: A Tool for States to Circumvent the Republican Tax Plan
 Author-Name: Dean Baker
@@ -162,6 +166,7 @@ While Trump’s trade agenda is not one that most progressives will choose to em
 Length: 18 pages
 Classification-JEL: F, F1, F16, F13, F10
 File-URL: http://cepr.net/images/stories/reports/progressive-trade-2018-12.pdf
+<<<<<<< HEAD
 File-Format: application/pdf
 
 Template-Type: ReDIF-Paper 1.0
@@ -207,3 +212,6 @@ Length: 21 pages
 Classification-JEL: E, E0, E00, E01, E02, E6, E61, E62, E66, F, F0, H, H3, H30, H1, H12, H5, H6, H60, H61, H62, H63, H68, H69, O, OO,
 File-URL: http://cepr.net/images/stories/reports/argentina-imf-2018-12.pdf
 File-Format: application/pdf
+=======
+File-Format: application/pdf
+>>>>>>> bac94226edeb709db83e7cd102f6a4ba2ce860d6
