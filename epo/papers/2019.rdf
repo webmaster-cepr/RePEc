@@ -76,6 +76,7 @@ Length: 27 pages
 Classification-JEL: F, F0, F02, F5, F51, F52, F53, F54, H, H6, H63, I, I0, K, K4, K42, 
 File-URL: http://cepr.net/images/stories/reports/venezuela-sanctions-2019-04.pdf
 File-Format: application/pdf
+<<<<<<< HEAD
 
 Template-Type: ReDIF-Paper 1.0
 Handle: RePEc:epo:papers:2019-06
@@ -89,3 +90,5 @@ Length: 12 pages
 Classification-JEL: J, J3, J32, J38, J8
 File-URL: http://cepr.net/images/stories/reports/no-vacation-nation-2019-05.pdf
 File-Format: application/pdf
+=======
+>>>>>>> 4a7ac0ecb72f1d094d2053abd42190a7c9f21495
