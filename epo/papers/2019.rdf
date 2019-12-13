@@ -136,3 +136,46 @@ Length: 23 pages
 Classification-JEL: D, D3, D30, E, E5, E52, E58, H, H6, H63, N, N1, N16, O, O1, O11, O19, O2, O23, O5, O54
 File-URL: http://cepr.net/images/stories/reports/bolivia-macro-2019-10.pdf
 File-Format: application/pdf
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:epo:papers:2019-10
+Title: What Happened in Bolivia’s 2019 Vote Count? The Role of the OAS Electoral Observation Mission
+Author-Name: Guillaume Long
+Author-Person: 
+Author-Name: David Rosnick 
+Author-Person: pro314 
+Author-Name: Cavan Kharrazian
+Author-Person: 
+Author-Name: Kevin Cashman
+Author-Person: 
+Creation-Date: 2019-11
+Abstract: This paper presents results from statistical analysis of election returns and tally sheets from Bolivia’s October 20 elections. This analysis finds no evidence that irregularities or fraud affected the official result that gave President Evo Morales a first-round victory. The paper presents a step-by-step breakdown of what happened with Bolivia’s vote counts (both the unofficial quick count, and the slower official count), seeking to dispel confusion over the process. The report includes the results of 500 simulations that show that Morales’s first-round victory was not just possible, but probable, based on the results of the initial 83.85 percent of votes in the quick count.
+Length: 18 pages
+Classification-JEL: D, D3, D30, E, E5, E52, E58, H, H6, H63, N, N1, N16, O, O1, O11, O19, O2, O23, O5, O54
+File-URL: http://cepr.net/images/stories/reports/bolivia-elections-2019-11.pdf?v=2
+File-Format: application/pdf
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:epo:papers:2019-12
+Title: The Productivity to Paycheck Gap: 2019 Update
+Author-Name: Dean Baker
+Author-Person: pba441
+Creation-Date: 2019-09
+Abstract: This is an update of an earlier paper that examined the gap between productivity growth and median wage growth. The paper makes several adjustments to the most commonly cited productivity data, productivity in the non-farm business sector, to get a productivity measure that is directly comparable to wage growth. It also adjusts for differences between the growth in total compensation growth (wages and benefits) and wages, to determine the extent to which the typical worker’s pay has lagged productivity growth.
+Length: 12 pages
+Classification-JEL: J, J3, J31
+File-URL: http://cepr.net/publications/reports/the-productivity-to-paycheck-gap-2019-update
+File-Format: application/pdf
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:epo:papers:2019-13
+Title: Unnatural Claims in a ‘Natural Experiment’: Escobari and Hoover on the 2019 Bolivian Elections
+Author-Name: David Rosnick
+Author-Person: pro314
+Creation-Date: 2019-12
+Abstract: On November 25, a short paper was released purporting to show that there was fraud in the October 20 Bolivian presidential election — and that absent this fraud, the election would have required a second round. However, the authors, Escobari and Hoover produce no credible evidence that the official results of the election should be doubted. Instead, their approach confirms our finding that the expanded MAS margin on the later tally sheets is explained by the mix of precincts considered before and after the interruption of the unofficial TREP count. Their alarm regarding “dosing” was based on a highly distorted presentation of the facts. Instead, careful examination simply reminds us that geography was even more critical to the order in which tally sheets were counted in the cómputo than to the order in the TREP.
+In this brief, we replicate the results of Escobari and Hoover, discover errors in their analysis, and eventually find that the approach essentially confirms our own findings that the change in margin was predictable.
+Length: 16 pages
+Classification-JEL: F, F5, F53, F55, K, K1, K16
+File-URL: http://cepr.net/images/stories/reports/escobari-hoover-bolivia-2019-12.pdf?v=2
+File-Format: application/pdf
